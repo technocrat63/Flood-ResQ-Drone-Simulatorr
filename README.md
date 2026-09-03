@@ -207,6 +207,7 @@ Deliver emergency supplies
 - GitHub
 
 ## 📂 Project Structure
+```text
 Flood ResQ Drone Simulatorr/
 │
 ├── Assets/
@@ -237,13 +238,18 @@ Flood ResQ Drone Simulatorr/
 This project is being developed collaboratively as a team for
 **Smart India Hackathon 2026**.
 
-##  Team Member 	       Contribution
-  - Manish Thakur	        Voice Control
-  - Aryan Sharma	        Unity / Simulation
-  - Anurag Yadav	        Drone System
-  - Aparna Mishra	        AI / YOLO
-  - Lakshya Tomar        	UI / Dashboard
-  - Ashutosh Agnihotri	    Integration / Testing
+## 👥 Team
+
+This project is being developed collaboratively as a team for **Smart India Hackathon 2026**.
+
+| Team Member | Contribution |
+|------------|--------------|
+| **Manish Thakur** | Voice Control |
+| **Aryan Sharma** | Unity / Simulation |
+| **Anurag Yadav** | Drone System |
+| **Aparna Mishra** | AI / YOLO |
+| **Lakshya Tomar** | UI / Dashboard |
+| **Ashutosh Agnihotri** | Integration / Testing |
 
 ## 🏆 Project Status
 ✅ SIH 2026 Round 1 Qualified

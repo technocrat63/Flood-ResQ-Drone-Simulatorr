@@ -105,3 +105,13 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Local recovery data
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+
+# YOLO training dataset archive
+/TrainingData.zip
+
+# Generated Visual Studio solution
+*.slnx
